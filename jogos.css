@@ -3,7 +3,7 @@ body{
 }
 header{
 
-    background: #cca6cf;
+    background: #cba6cf;
     padding: 20px 0;
 }
 
@@ -14,36 +14,33 @@ header{
 
 nav {
 
-	position: absolute;
-	top:110px;
-	right: 0;
- }
- 
- nav li {
-	  display: inline;
-	  margin: 0 0 0 15px;
- 
- }
+   position: absolute;
+   top:110px;
+   right: 0;
+}
 
- nav a {
-	 text-transform: uppercase;
-	 color:#000000;
-	 font-weight:bold;
-	 font-size: 22px;
-	 text-decoration: none;
- }
+nav li {
+     display: inline;
+     margin: 0 0 0 15px;
 
- .imagem2{
+}
+
+nav a {
+    text-transform: uppercase;
+    color:#000000;
+    font-weight:bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+.imagem2{
     width: 30%;
 }
- 
- nav a:hover {
+
+nav a:hover {
 
     color: hs1(258, 96%, 51%);
     text-decoration: underline;
 }
-
-
 footer{
     background-color: rgb(255, 0, 157);
     text-align: center;
