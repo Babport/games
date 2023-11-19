@@ -1,6 +1,16 @@
 body{
     background-color: rgb(255, 0, 157);
 }
+header{
+
+    background: #cca6cf;
+    padding: 20px 0;
+}
+
+.caixa{position: -ms-page;
+    width: 600px;
+    margin: 0 auto;
+}
 
 nav {
 
@@ -22,6 +32,10 @@ nav {
 	 font-size: 22px;
 	 text-decoration: none;
  }
+
+ .imagem2{
+    width: 30%;
+}
  
  nav a:hover {
 
